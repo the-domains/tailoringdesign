@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TailoringDesign]]></title>
         <description><![CDATA[TailoringDesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tailoringdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 04:54:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 04:57:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tailoringdesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c44494b-6258-4672-bfb5-f6e5e302eaee.jpg">]]></description>
-            <link>undefined35f8091d-b992-44b7-a57e-811e91ddea42/index.html</link>
+            <link>https://thegrid.ai/tailoringdesign/35f8091d-b992-44b7-a57e-811e91ddea42/index.html</link>
             <guid isPermaLink="false">35f8091d-b992-44b7-a57e-811e91ddea42</guid>
-            <pubDate>Fri, 13 May 2016 04:54:33 GMT</pubDate>
+            <pubDate>Fri, 13 May 2016 04:57:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
